@@ -1,6 +1,7 @@
 I created this project to practice data exploration, visualization, and modeling with Python.
 
-The analysis is following the methodology in the example by Barış Karaman (https://towardsdatascience.com/data-driven-growth-with-python-part-1-know-your-metrics-812781e66a5b)
+The analysis is following the methodology in the example by Barış Karaman 
+https://towardsdatascience.com/data-driven-growth-with-python-part-1-know-your-metrics-812781e66a5b
 
 The first part is mostly data exploration and visualization for an Online Retailer data set. Couple of new measures are created, such as monthly active customers, montly sales, new customer ratio. This part ends with generating summary retention table I am creating couple of new variables and at the end a summary retention table with monthly cohorts. 
 https://nbviewer.jupyter.org/github/dorastefanova13/Customer_Value_Analysis/blob/main/01_Metrics_Exploration.ipynb
